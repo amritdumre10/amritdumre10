@@ -14,7 +14,7 @@
 
 - 💻 &nbsp;Java | C# | PHP 
 - 🌐 &nbsp;HTML5 | CSS3 | JavaScript | jQuery | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🛢 &nbsp; MSSQL | MySQL | Firebase | Xampp
 - 🔧 &nbsp;Visual Studio | Visual Studio code | Eclipse | Git | Bitbucket
 - 🖥 &nbsp; Figma | Photoshop |  Illustrator
 
