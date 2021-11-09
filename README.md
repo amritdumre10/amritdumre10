@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Amrit</h2>
-<img align="right" alt="Amrit's Photo" src="https://yt3.ggpht.com/ytc/AAUvwnjA4ZGbALYuXNDe71BJNfJGM6Y85s4B2rWULhgZQg=s900-c-k-c0x00ffffff-no-rj" width="200" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
