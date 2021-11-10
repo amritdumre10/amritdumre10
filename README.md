@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Amrit</h2>
+<img align="right" alt="Amrit's Photo" src="https://www.nicepng.com/png/full/380-3801129_glider-offers-a-clean-and-elegant-way-to.png" width="400" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
